@@ -1,0 +1,7 @@
+keras==2.14.0
+tensorflow==2.14.0
+gradio==4.26.0
+gradio_client==0.15.1
+gunicorn==21.2.0
+pillow==10.2.0
+numpy==1.26.4
